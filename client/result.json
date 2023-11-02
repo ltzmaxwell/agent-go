@@ -1,0 +1,50 @@
+{
+    "query": "latest album by Zhao Lei",
+    "follow_up_questions": null,
+    "response_time": 2.32,
+    "answer": null,
+    "images": [
+        "https://www.thefashionisto.com/wp-content/uploads/2016/11/Zhao-Lei-2016-Zachary-Prell-Fall-Winter-002.jpg",
+        "https://mediaslide-europe.storage.googleapis.com/view/pictures/2956/2956/large-1540155278-43f83ce101bdd6aa67714b8d18b7d572.jpg",
+        "https://i.pinimg.com/originals/bf/06/6c/bf066cd19e4a8bdb9c1e80e6d9b25a8c.jpg",
+        "https://mediaslide-europe.storage.googleapis.com/view/pictures/2956/2956/large-1607695703-eb168dad68393b564bb32e37c4b575eb.jpg",
+        "https://images.genius.com/54db4e66ccc626ce73463aa67cbce282.1000x1000x1.jpg"
+    ],
+    "results": [
+        {
+            "title": "Zhao Lei (singer) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zhao_Lei_(singer)",
+            "content": "Zhao Lei moved to sing in Guangzhou, and the original songs \"画\" (Painting), \"南方姑娘\" (The Southern Girl), \"雪人\" (The Snowman) the success of the 20 cut, stop the 12 strong; [9] September 22 was held in Beijing Fangshan Changyang Music Festival stage for the finale of the show dandelion. [10]",
+            "score": 0.97455,
+            "raw_content": null
+        },
+        {
+            "title": "署前街少年 - Album by Zhao Lei | Spotify",
+            "url": "https://open.spotify.com/album/02ISmkRck5zSGqHkeTfCqu",
+            "content": "Zhao Lei · Album · 2022 · 10 songs.",
+            "score": 0.96668,
+            "raw_content": null
+        },
+        {
+            "title": "Teen on Shuqian Street - Album by Zhao Lei - Apple Music",
+            "url": "https://music.apple.com/us/album/署前街少年/1639848707",
+            "content": "Zhao Lei MANDOPOP · 2022 Preview 1 Abdullah 5:21 2 In the Sprinkle 5:15 3 Damsel 4:09 4 Taxi Before Dawn 4:12 5 I Remember 5:29 6 Captain 5:50 7 Cheng Aiying 5:00 8 Little Trace 4:37 9 Nights at Sanlitun 5:08 10 Teen on Shuqian Street 5:03 August 29, 2022 10 Songs, 50 minutes ℗ 2022 Zhao Lei RECORD LABEL StreetVoice 街聲",
+            "score": 0.94337,
+            "raw_content": null
+        },
+        {
+            "title": "赵雷 (Zhao Lei) Lyrics, Songs, and Albums | Genius",
+            "url": "https://genius.com/artists/Zhao-lei",
+            "content": "Get all the lyrics to songs by 赵雷 (Zhao Lei) and join the Genius community of music scholars to learn the meaning behind the lyrics. {{:: 'cloudflare_always_on_message' | i18n }}",
+            "score": 0.94027,
+            "raw_content": null
+        },
+        {
+            "title": "赵雷 (Zhao Lei) - 署前街少年 (Youth in Shuqian Street) [Full Album]",
+            "url": "https://www.youtube.com/watch?v=e6VpnlVeKiI",
+            "content": "My favorite Chinese singer of the last decade, and probably of the one to come too.Artist: 赵雷 (Zhao Lei)Album: 署前街少年 (Youth in Shuqian Street)Year: 2022Genre...",
+            "score": 0.91267,
+            "raw_content": null
+        }
+    ]
+}:
